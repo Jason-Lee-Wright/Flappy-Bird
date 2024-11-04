@@ -1,0 +1,14 @@
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\bin\Debug\net8.0-windows\Flappy Bird.exe
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\bin\Debug\net8.0-windows\Flappy Bird.deps.json
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\bin\Debug\net8.0-windows\Flappy Bird.runtimeconfig.json
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\bin\Debug\net8.0-windows\Flappy Bird.dll
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\bin\Debug\net8.0-windows\Flappy Bird.pdb
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.AssemblyInfoInputs.cache
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.AssemblyInfo.cs
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.dll
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\refint\Flappy Bird.dll
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.pdb
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.genruntimeconfig.cache
+C:\Jason Projects\repos\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\ref\Flappy Bird.dll
